@@ -1,0 +1,6 @@
+site_name: Eco Crafts
+theme:
+  name: material
+  features:
+    - navigation.indexes # Allows folders to act as clickable pages
+    - navigation.sections # Collapsible sidebar sections
